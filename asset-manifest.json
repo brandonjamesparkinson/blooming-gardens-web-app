@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/blooming-gardens-web-app/static/css/main.073c9b0a.css",
+    "main.js": "/blooming-gardens-web-app/static/js/main.a0796968.js",
+    "static/js/787.07a585ab.chunk.js": "/blooming-gardens-web-app/static/js/787.07a585ab.chunk.js",
+    "static/media/logo.svg": "/blooming-gardens-web-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/blooming-gardens-web-app/index.html",
+    "main.073c9b0a.css.map": "/blooming-gardens-web-app/static/css/main.073c9b0a.css.map",
+    "main.a0796968.js.map": "/blooming-gardens-web-app/static/js/main.a0796968.js.map",
+    "787.07a585ab.chunk.js.map": "/blooming-gardens-web-app/static/js/787.07a585ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a0796968.js"
+  ]
+}
